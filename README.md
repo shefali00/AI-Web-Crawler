@@ -28,7 +28,7 @@
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/ai-web-crawler.git
+   git clone https://github.com/shefali00/ai-web-crawler.git
    cd ai-web-crawler
    ```
 
