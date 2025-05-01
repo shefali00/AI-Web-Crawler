@@ -1,0 +1,12 @@
+#requirements.txt
+streamlit
+selenium
+beautifulsoup4
+requests
+cohere
+graphviz
+streamlit-agraph
+python-dotenv
+webdriver-manager
+faiss-cpu
+google-generativeai
